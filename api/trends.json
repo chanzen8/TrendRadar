@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-27T08:06:22.894768+08:00",
-  "total_titles_processed": 572,
+  "generated_at": "2026-05-27T13:08:48.408048+08:00",
+  "total_titles_processed": 798,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
+        {
+          "title": "停火协议形同废纸！伊朗开火，回击美国空袭，小哈梅内伊：中东地区国家将不再庇护美军",
+          "url": "https://wallstreetcn.com/articles/3773148",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时19分 ~ 13时08分]"
+        },
         {
           "title": "伊朗外交部：美国公然违反停火协议",
           "url": "https://www.cls.cn/detail/2382022",
@@ -30,18 +42,6 @@
           "time_info": "[01时19分 ~ 08时06分]"
         },
         {
-          "title": "停火协议形同废纸！伊朗开火，回击美国空袭，小哈梅内伊：中东地区国家将不再庇护美军",
-          "url": "https://wallstreetcn.com/articles/3773148",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时19分 ~ 08时06分]"
-        },
-        {
           "title": "伊朗任命谈判团队发言人，专家：展现外交灵活性",
           "url": "https://v.ifeng.com/c/8tPxP7tkeJv",
           "source": "凤凰网",
@@ -51,6 +51,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时19分 ~ 08时06分]"
+        },
+        {
+          "title": "伊朗是否已请求将高浓缩铀转运至中国？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33236124",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            6,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时19分 ~ 13时08分]"
         },
         {
           "title": "伊朗男足参加美墨世界杯：比赛日跨境入美，踢完就撤回墨西哥",
@@ -89,17 +103,15 @@
           "time_info": "[01时19分 ~ 08时06分]"
         },
         {
-          "title": "伊朗是否已请求将高浓缩铀转运至中国？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33236124",
-          "source": "澎湃新闻",
+          "title": "伊朗大不里士国际机场恢复运营",
+          "url": "https://flash.jin10.com/detail/20260527125126650800",
+          "source": "金十数据",
           "ranks": [
-            8,
-            6,
-            5
+            3
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时19分 ~ 08时06分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
         },
         {
           "title": "伊朗总统：已准备好达成“有尊严的”框架协议",
@@ -167,7 +179,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -194,6 +206,17 @@
           "time_info": "01时19分"
         },
         {
+          "title": "伊朗民航组织宣布全国10个机场将实现24小时运营",
+          "url": "https://wallstreetcn.com/livenews/3109828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
           "title": "伊朗总统：与卡塔尔埃米尔通电话。 德黑兰寻求按照“有尊严的框架（协议）”来结束战争。",
           "url": "https://wallstreetcn.com/livenews/3109566",
           "source": "华尔街见闻-快讯",
@@ -203,6 +226,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
+        },
+        {
+          "title": "王毅谈当前伊朗局势僵局",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33242584",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
         },
         {
           "title": "高盛：伊朗局势紧张之际，美元货币对正步调一致地共振走势",
@@ -233,7 +267,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -247,6 +281,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
+        },
+        {
+          "title": "伊朗民航组织宣布全国10个机场将实现24小时运营",
+          "url": "https://flash.jin10.com/detail/20260527121045082800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
         },
         {
           "title": "伊朗公布击落美MQ-9“死神”无人机画面",
@@ -266,7 +311,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -288,7 +333,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -307,8 +352,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "特朗普体检后称“结果非常完美”，下个月将迎来80岁生日",
+          "url": "https://news.ifeng.com/c/8tSnrdWGnY5",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
         {
           "title": "美国总统特朗普宣称：准备在白宫举办内阁会议，推迟前往戴维营的行程。",
           "url": "https://wallstreetcn.com/livenews/3109650",
@@ -332,6 +388,32 @@
           "time_info": "01时19分"
         },
         {
+          "title": "释新闻｜美伊谈判冲刺阶段，特朗普为何突然提起《亚伯拉罕协议》？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33237017",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            16,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时19分 ~ 13时08分]"
+        },
+        {
+          "title": "特朗普提了一个非分要求",
+          "url": "https://news.ifeng.com/c/8tSb04uTeLk",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 13时08分]"
+        },
+        {
           "title": "美国总统特朗普：确保商品期货交易委员会对预测市场专属管辖权得到维护至关重要。",
           "url": "https://flash.jin10.com/detail/20260527052251487800",
           "source": "金十数据",
@@ -342,19 +424,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时27分 ~ 07时01分]"
-        },
-        {
-          "title": "释新闻｜美伊谈判冲刺阶段，特朗普为何突然提起《亚伯拉罕协议》？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33237017",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时19分 ~ 08时06分]"
         },
         {
           "title": "巴西参议员弗拉维奥·博索纳罗（Flávio Bolsonaro）：我要求美国总统特朗普将（那些）犯罪集团标榜为恐怖分子。 我告诉特朗普，如果我当选（为巴西总统），我们将达成一份贸易协议。",
@@ -379,17 +448,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时01分 ~ 08时06分]"
-        },
-        {
-          "title": "特朗普提了一个非分要求",
-          "url": "https://news.ifeng.com/c/8tSb04uTeLk",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时06分"
         },
         {
           "title": "特朗普称与伊朗谈判进展顺利、不会签让伊获核武的协议，美官员对近期解决争端乐观",
@@ -453,7 +511,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -489,6 +547,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
+        },
+        {
+          "title": "国台办回应特朗普称将和赖清德谈军售",
+          "url": "https://www.toutiao.com/trending/7643605127043399699/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
         },
         {
           "title": "美国贸易代表格里尔：美国总统特朗普对关税豁免计划不感兴趣。",
@@ -556,11 +625,25 @@
           "url": "https://www.cls.cn/detail/2382303",
           "source": "财联社热门",
           "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 13时08分]"
+        },
+        {
+          "title": "美股收盘：标普纳指再创新高 美光科技暴涨19%",
+          "url": "https://www.cls.cn/detail/2382288",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时06分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时01分 ~ 13时08分]"
         },
         {
           "title": "金十图示：2026年05月26日（周二）美股热门股票行情一览（美股盘中）",
@@ -583,18 +666,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
-        },
-        {
-          "title": "美股收盘：标普纳指再创新高 美光科技暴涨19%",
-          "url": "https://www.cls.cn/detail/2382288",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时01分 ~ 08时06分]"
         },
         {
           "title": "美伊谈判前景提振市场 美股三大期指集体上涨 美光盘前大涨超8% | 今夜看点",
@@ -649,7 +720,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         }
@@ -734,7 +805,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         }
