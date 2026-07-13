@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T19:50:12.879939+08:00",
-  "total_titles_processed": 1232,
+  "generated_at": "2026-07-13T22:48:42.467835+08:00",
+  "total_titles_processed": 1411,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 92,
+      "match_count": 94,
       "titles": [
         {
           "title": "伊朗关闭霍尔木兹海峡、打击美在中东目标，美军对伊发动新一轮袭击、多地传出爆炸声",
@@ -115,8 +115,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时23分 ~ 19时50分]"
+          "appearance_count": 5,
+          "time_info": "[13时23分 ~ 22时48分]"
         },
         {
           "title": "【早报】美国对伊朗发动打击；油价大涨，黄金跌破4100美元；半导体设备龙头，今日复牌",
@@ -431,6 +431,18 @@
           "time_info": "[05时39分 ~ 06时36分]"
         },
         {
+          "title": "美军称对伊朗发起新一轮打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33572651",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时44分 ~ 22时48分]"
+        },
+        {
           "title": "也门外交部重申，面对美国和以色列持续不断的侵略，也门将继续支持伊朗。",
           "url": "https://flash.jin10.com/detail/20260713031516956800",
           "source": "金十数据",
@@ -507,18 +519,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时44分 ~ 02时47分]"
-        },
-        {
-          "title": "美军称对伊朗发起新一轮打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33572651",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时44分 ~ 19时50分]"
         },
         {
           "title": "据伊朗伊斯兰广播电视台（IRIB）：伊朗南部再次传出爆炸声。",
@@ -641,7 +641,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -674,7 +674,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -696,9 +696,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
+        },
+        {
+          "title": "伊朗外交部发言人：要为伤亡的伊朗人复仇",
+          "url": "https://wallstreetcn.com/livenews/3132961",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         },
         {
           "title": "中东局势追踪：伊朗、阿曼展开通航磋商 霍尔木兹海峡再度关闭",
@@ -773,9 +784,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
+        },
+        {
+          "title": "伊朗：不会允许美国干涉霍尔木兹海峡管理",
+          "url": "https://wallstreetcn.com/livenews/3132955",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         },
         {
           "title": "霍尔木兹大战升级！伊朗导弹横扫海湾多国，再次宣布关闭海峡",
@@ -795,7 +817,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -883,7 +905,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -905,7 +927,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -993,7 +1015,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -1048,7 +1070,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -1081,7 +1103,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         }
@@ -1089,7 +1111,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普立下数千枚导弹“报复遗嘱”，万斯可以不听吗？",
@@ -1101,6 +1123,17 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时43分 ~ 07时42分]"
+        },
+        {
+          "title": "特朗普：伊朗违背承诺，刚谈完不到一小时就袭击商船",
+          "url": "https://news.ifeng.com/c/8uidsBIJWO9",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时28分 ~ 22时48分]"
         },
         {
           "title": "委内瑞拉代总统成傀儡？采访要特朗普批，发文要鲁比奥审",
@@ -1126,17 +1159,6 @@
           "time_info": "[00时44分 ~ 06时36分]"
         },
         {
-          "title": "特朗普：伊朗违背承诺，刚谈完不到一小时就袭击商船",
-          "url": "https://news.ifeng.com/c/8uidsBIJWO9",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时28分 ~ 19时50分]"
-        },
-        {
           "title": "特朗普命令全美降半旗悼念格雷厄姆",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%91%BD%E4%BB%A4%E5%85%A8%E7%BE%8E%E9%99%8D%E5%8D%8A%E6%97%97%E6%82%BC%E5%BF%B5%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86",
           "source": "百度热搜",
@@ -1146,6 +1168,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
+        },
+        {
+          "title": "特朗普称美国将恢复“针对伊朗的封锁”",
+          "url": "https://wallstreetcn.com/livenews/3132969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         },
         {
           "title": "特朗普在对伊战争上“没有什么可以向美国选民兜售的”",
@@ -1169,8 +1202,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时44分 ~ 19时50分]"
+          "appearance_count": 4,
+          "time_info": "[16时44分 ~ 22时48分]"
         },
         {
           "title": "特朗普称美军“猛烈打击”伊朗 霍尔木兹海峡“仍然开放”",
@@ -1196,6 +1229,39 @@
           "time_info": "16时44分"
         },
         {
+          "title": "美、布两油短线持续走高，现分别报74.71美元/桶和79.5美元/桶。消息面上，特朗普宣布恢复对伊朗封锁。",
+          "url": "https://flash.jin10.com/detail/20260713222044730800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
+          "title": "特朗普：美国将对通过霍尔木兹海峡的货物收取20%的“费用补偿”",
+          "url": "https://wallstreetcn.com/livenews/3132965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
+          "title": "现货黄金短线走低，回落至4020美元/盎司下方，日内跌2.50%。消息面上，特朗普宣布恢复对伊朗封锁。",
+          "url": "https://flash.jin10.com/detail/20260713221733697800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
           "title": "美国总统特朗普：59%的支持率。通胀下降，油气价格也在降低。",
           "url": "https://flash.jin10.com/detail/20260713090402054800",
           "source": "金十数据",
@@ -1216,6 +1282,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
+        },
+        {
+          "title": "特朗普：即刻起恢复封锁伊朗 对货物运输收取20%费用",
+          "url": "https://flash.jin10.com/detail/20260713221707911800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         },
         {
           "title": "特朗普命令全国降半旗",
@@ -1265,8 +1342,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "AI恐慌叠加中东局势升温，美股指涨跌互现，存储芯片股普跌，SK海力士跌8%，油涨金跌",
+          "url": "https://wallstreetcn.com/articles/3776754",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
         {
           "title": "AI恐慌蔓延，美股盘前存储芯片股普跌，SK海力士暴跌15.4%创历史最大跌幅，原油上涨，黄金下跌",
           "url": "https://wallstreetcn.com/articles/3776754",
@@ -1299,8 +1387,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时49分 ~ 19时50分]"
+          "appearance_count": 3,
+          "time_info": "[19时49分 ~ 22时48分]"
         },
         {
           "title": "美股三大股指期货周一低开，其中纳指期货跌0.3%。",
@@ -1323,6 +1411,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，能源业ETF涨超2%，日常消费品ETF涨近1%，半导体ETF跌2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3132944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
+          "title": "美股盘初：纳指跌0.7%，存储芯片股普跌，SK海力士跌约8%",
+          "url": "https://wallstreetcn.com/livenews/3132940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         }
       ]
     },
